@@ -13,8 +13,9 @@ _USE - Unified State Exam (ЕГЭ)_
 2. Нажмите на зеленую кнопку **_Code_** справа сверху и выберите **_Download ZIP_**
 3. Распакуйте архив в удобном для вас месте
 4. Откройте при помощи удобного вам редактора кода или IDE/
-Я рекомендую использовать [Visual Studio Code](https://code.visualstudio.com/)/
-Необходимое ПО:/
+Я рекомендую использовать [Visual Studio Code](https://code.visualstudio.com/)
+
+Необходимое ПО:
 - [Python 3.10+](https://www.python.org/)
 - Если вы используете VS Code, то необходимо установить следующие расширения:
     - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
