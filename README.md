@@ -14,11 +14,12 @@ _USE - Unified State Exam (ЕГЭ)_
 3. Распакуйте архив в удобном для вас месте
 4. Откройте при помощи удобного вам редактора кода или IDE
 
-Я рекомендую использовать [Visual Studio Code](https://code.visualstudio.com/)
+Я рекомендую использовать [Visual Studio Code](https://code.visualstudio.com/)\
+Другой вариант - использовать [JupyterLab](https://jupyter.org/install) _(инструкции можно найти в интернете)_\
+Существует еще множество способов. Если эти два вам не подошли - интернет в вашем распоряжении.
 
 Необходимое ПО:
 - [Python 3.10+](https://www.python.org/)
 - Если вы используете VS Code, то необходимо установить следующие расширения:
     - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
     - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-Другой вариант - использовать [JupyterLab](https://jupyter.org/install) _(инструкции можно найти в интернете)_
